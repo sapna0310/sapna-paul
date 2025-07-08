@@ -1,4 +1,4 @@
-# Your Name - Personal Brand Repository
+# Sapna Paul - Personal Brand Repository
 
 > Building secure solutions through an engineer's lens and a risk manager's wisdom
 
